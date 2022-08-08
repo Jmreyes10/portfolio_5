@@ -1,0 +1,14 @@
+input[type="button"]{
+    width: 100%;
+    box-shadow: 1px 1px 1px gray;
+    border-radius: 5px;
+    margin: 5px;
+}
+table, td, tr{
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 20px;
+}
+html{
+font-family: Verdana;
+}
